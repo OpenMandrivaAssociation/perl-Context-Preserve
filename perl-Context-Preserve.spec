@@ -13,6 +13,7 @@ Source:     http://www.cpan.org/modules/by-module/Context/%{module}-%{version}.t
 BuildRequires: perl(Exporter)
 BuildRequires: perl(Test::Exception)
 BuildRequires: perl(Test::More)
+BuildRequires: perl-Test-use-ok
 BuildArch: noarch
 BuildRoot:  %{_tmppath}/%{name}-%{version}
 
