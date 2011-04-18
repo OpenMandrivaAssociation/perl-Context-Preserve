@@ -1,6 +1,6 @@
 %define module   Context-Preserve
 %define version    0.01
-%define release    %mkrel 2
+%define release    %mkrel 3
 
 Name:       perl-%{module}
 Version:    %{version}
