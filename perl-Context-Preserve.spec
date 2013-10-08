@@ -2,10 +2,10 @@
 
 Name:		perl-%{module}
 Version:	0.01
-Release:	4
+Release:	5
 License:	GPL or Artistic
 Group:		Development/Perl
-Summary:	Run code after a subroutine call, preserving the context the subroutine would have seen if it were the last statement in the caller
+Summary:	Run code after a subroutine call preserving the context
 Url:		http://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Context/%{module}-%{version}.tar.gz
 
