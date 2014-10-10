@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.01
-Release:	5
+Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Run code after a subroutine call preserving the context
