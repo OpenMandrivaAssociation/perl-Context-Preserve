@@ -6,7 +6,7 @@ Release:	7
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Run code after a subroutine call preserving the context
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Context/%{module}-%{version}.tar.gz
 
 BuildRequires:	perl-devel
