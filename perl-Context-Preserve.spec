@@ -9,6 +9,7 @@ Summary:	Run code after a subroutine call preserving the context
 Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Context/%{module}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(Exporter)
 BuildRequires:	perl(Test::Exception)
