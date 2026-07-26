@@ -1,13 +1,13 @@
 %define module   Context-Preserve
 
 Name:		perl-%{module}
-Version:	0.01
-Release:	7
+Version:	0.03
+Release:	1
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Run code after a subroutine call preserving the context
-Url:		https://search.cpan.org/dist/%{module}
-Source:		http://www.cpan.org/modules/by-module/Context/%{module}-%{version}.tar.gz
+Url:		https://github.com/karenetheridge/Context-Preserve
+Source:		https://cpan.metacpan.org/authors/id/E/ET/ETHER/%{module}-%{version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl-devel
